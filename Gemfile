@@ -1,2 +1,2 @@
-source 'https://rubygems.org'
-gem 'minitest-autotest'
+gem 'cinch'
+# There are also Cinch plugins that you can add here later
